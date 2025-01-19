@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/375223906825683941/b69a51cd0a20435183a9601f8dcc028b/artifacts
+end_time: 1737243117870
+entry_point_name: ''
+experiment_id: '375223906825683941'
+lifecycle_stage: active
+run_id: b69a51cd0a20435183a9601f8dcc028b
+run_name: shivering-ray-917
+run_uuid: b69a51cd0a20435183a9601f8dcc028b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737243114532
+status: 3
+tags: []
+user_id: mesek

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/375223906825683941/3d7336d45e4749d290956524139474a8/artifacts
+end_time: 1737243121203
+entry_point_name: ''
+experiment_id: '375223906825683941'
+lifecycle_stage: active
+run_id: 3d7336d45e4749d290956524139474a8
+run_name: gentle-stoat-41
+run_uuid: 3d7336d45e4749d290956524139474a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737243117991
+status: 3
+tags: []
+user_id: mesek

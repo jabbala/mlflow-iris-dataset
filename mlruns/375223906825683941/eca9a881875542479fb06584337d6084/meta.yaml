@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/375223906825683941/eca9a881875542479fb06584337d6084/artifacts
+end_time: 1737243914744
+entry_point_name: ''
+experiment_id: '375223906825683941'
+lifecycle_stage: active
+run_id: eca9a881875542479fb06584337d6084
+run_name: likeable-bat-158
+run_uuid: eca9a881875542479fb06584337d6084
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737243911654
+status: 3
+tags: []
+user_id: mesek
